@@ -29,6 +29,9 @@ same as timer.c except the MCU gives 0 instead of 1.
 To be used when the relay switches on at Input=0.
 
 
+# port_test.c
+Sets all I/O ports to Output=High for checking the hardware.
+
 
 
 
