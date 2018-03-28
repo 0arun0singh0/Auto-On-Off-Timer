@@ -2,7 +2,7 @@
 Auto-On/Off Timer Code for PIC Microcontroller 
 
 
-*timer.c*
+# timer.c
 
 Connect 3 Push Buttons at bits:
 
@@ -23,7 +23,7 @@ D4= On when 1.5Hr Timer is active.
 
 
 
-*timer_beta.c*
+# timer_beta.c
 
 same as timer.c except the MCU gives 0 instead of 1. 
 To be used when the relay switches on at Input=0.
