@@ -4,7 +4,7 @@ Hardware consists of PIC18F45K22 8-Bit Micro-Processor, 2 LEDs, 3 Push Buttons, 
 <br />
 Timer consists of 3 basic Features:  
 Permanent On: Permanently Turns On the AC.  
-Permanent Off: Permanently Turns Off the AC.
+Permanent Off: Permanently Turns Off the AC.  
 Timer : B3 Button when pushed once sets the timer to 1Hr and when pushed for more than 1 second sets the timer toi 1.5Hr.  
 
 
