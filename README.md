@@ -1,5 +1,6 @@
 # Auto-On-Off-Timer
-Auto-On/Off Timer Code for PIC Microcontroller 
+Auto-On/Off Timer Code for PIC Microcontroller. 
+Hardware consists of PIC18F45K22 8-Bit Micro-Processor, 2 LEDs, 3 Push Buttons, 1 Relay(DC 12V AC 220V).
 
 
 # timer.c
